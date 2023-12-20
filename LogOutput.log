@@ -10,22 +10,165 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 8 plugins to load
-[Info   :   BepInEx] Loading [BiggerLobby 2.6.0]
-[Info   :BiggerLobby] BiggerLobby loaded
+[Info   :   BepInEx] 21 plugins to load
+[Info   :   BepInEx] Loading [VoiceHUD 1.0.4]
+[Info   :   BepInEx] Loading [Ship Clock 0.9.0]
+[Info   :   BepInEx] Loading [ShipLoot 1.0]
+[Info   :   BepInEx] Loading [Lethal Company Input Utils 0.4.2]
+[Info   :Lethal Company Input Utils] Plugin com.rune580.LethalCompanyInputUtils is loaded!
+[Info   :   BepInEx] Loading [ItemQuickSwitchMod 1.1.0]
+[Info   :ItemQuickSwitchMod] ItemQuickSwitchMod is creating binds!
+[Info   :ItemQuickSwitchMod] Plugin ItemQuickSwitchMod is loaded!
+[Info   :   BepInEx] Loading [LetMeLookDown 1.0.1]
+[Info   :LetMeLookDown] LetMeLookDown mod loaded
 [Info   :   BepInEx] Loading [HDLethalCompany-Sligili 1.5.3]
 [Info   :HDLethalCompany-Sligili] HDLethalCompany loaded
+[Info   :   BepInEx] Loading [HealthMetrics 1.0.0]
+[Info   :Matsuura.HealthMetrics] HealthMetrics Awake
+[Info   :   BepInEx] Loading [MoreCompany 1.7.2]
+[Info   :MoreCompany] Loading MoreCompany...
+[Info   :MoreCompany] Checking: E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins/MoreCompanyCosmetics
+[Info   :MoreCompany] Read settings and cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.3dglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.bunnyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.denimhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.gunholster from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.hardhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.jesterhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.kittyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.mimemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancypants from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.outoforder from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.plaguemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.propellerhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.eyeballs from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.rudolph from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.santahat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.slimething from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.tophat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.watch from bundle
+[Info   :MoreCompany] Loading USER COSMETICS...
+[Info   :MoreCompany] Loaded MoreCompany FULLY
 [Info   :   BepInEx] Loading [Helmet_Cameras 2.1.5]
 [Info   :Helmet_Cameras] Plugin Helmet_Cameras is loaded with version 2.1.5!
 [Info   :Helmet_Cameras] --------Helmet camera patch done.---------
+[Info   :   BepInEx] Loading [FOV Adjust 1.1.1]
+[Info   :Rozebud.FovAdjust] Starting.
+[Info   :Rozebud.FovAdjust] Configs DONE!
+[Info   :Rozebud.FovAdjust] All FOV Adjust patches have loaded successfully.
 [Info   :   BepInEx] Loading [Flashlight 1.4.0]
 [Info   :Flashlight] ------Flashlight done.------
 [Info   :   BepInEx] Loading [WalkieUse 1.3.0]
 [Info   : WalkieUse] ------Walkie done.------
+[Info   :   BepInEx] Loading [Skinwalker Mod 1.0.8]
+[Info   :RugbugRedfern.SkinwalkerMod] SKINWALKER MOD STARTING UP 1.0.8
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BaboonHawk VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Bracken VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_BunkerSpider VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Centipede VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_CoilHead VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_EyelessDog VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_ForestGiant VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GhostGirl VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_GiantWorm VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_HoardingBug VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Hygrodere VALUE LOADED FROM CONFIG: [False]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Jester VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Masked VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Nutcracker VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_SporeLizard VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceEnabled_Thumper VALUE LOADED FROM CONFIG: [True]
+[Info   :RugbugRedfern.SkinwalkerMod] VoiceLineFrequency VALUE LOADED FROM CONFIG: [1]
+[Info   :RugbugRedfern.SkinwalkerMod] Skinwalker Mod Object Initialized
+[Info   :   BepInEx] Loading [SpectateEnemy 1.5.0]
+[Info   :SpectateEnemy] SpectateEnemy loaded!
 [Error  :   BepInEx] Could not load [Youtube Boombox 1.4.1] because it has missing dependencies: LC_API
 [Info   :   BepInEx] Loading [Yippee tbh mod 1.2.2]
 [Info   :sunnobunno.YippeeMod] sunnobunno.YippeeMod is loading.
 [Info   :sunnobunno.YippeeMod] sunnobunno.YippeeMod is loaded. Yippee!!!
+[Info   :   BepInEx] Loading [LC Always Hear Active Walkies 1.4.3]
+[Info   :suskitech.LCAlwaysHearActiveWalkie] \ /
+[Info   :suskitech.LCAlwaysHearActiveWalkie] /|\
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |----|
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |[__]| Always Hear Active Walkies
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |.  .| Version 1.4.3 Loaded
+[Info   :suskitech.LCAlwaysHearActiveWalkie]  |____|
+[Info   :   BepInEx] Loading [Goku Bracken 1.3.0]
+[Info   :Goku Bracken] Loading asset bundle...
+[Info   :Goku Bracken] Hey it's me! Goku!
+[Info   :Goku Bracken] Your files look pretty strong! I'm gonna patch them!
+[Info   :   BepInEx] Loading [Mimics 2.2.1]
+[Info   :    Mimics] Plugin Mimics is loaded!
 [Info   :   BepInEx] Loading [More Suits 1.4.1]
 [Info   :More Suits] Plugin More Suits is loaded!
 [Message:   BepInEx] Chainloader startup complete
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager Awake
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (14)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_351651ab-3573-42e9-b63e-c17a72838406_0_133475095359901089.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a6b8b7d3-8995-485c-8b04-325bdf4c1a66_0_133475095360058662.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a6b8b7d3-8995-485c-8b04-325bdf4c1a66_1_133475095368648715.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a6b8b7d3-8995-485c-8b04-325bdf4c1a66_2_133475095403194734.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_1_133475095377656905.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_2_133475095383693043.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_3_133475095388849670.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_4_133475095396526313.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e698434a-77ea-45d2-9175-ec97cb16bed2_1_133475095378159778.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_0_133475095359948508.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_e698434a-77ea-45d2-9175-ec97cb16bed2_0_133475095360068669.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (19)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a6b8b7d3-8995-485c-8b04-325bdf4c1a66_3_133475095447499872.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a6b8b7d3-8995-485c-8b04-325bdf4c1a66_4_133475095452837525.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_10_133475095443974132.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_11_133475095446497630.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_12_133475095454845150.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_13_133475095457859765.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_14_133475095466726643.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_15_133475095469413443.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_5_133475095409794348.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_6_133475095414616713.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_9_133475095433644447.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_7_133475095417952993.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_8_133475095421789288.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_351651ab-3573-42e9-b63e-c17a72838406_1_133475095387850451.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (21)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_351651ab-3573-42e9-b63e-c17a72838406_2_133475095472414625.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_351651ab-3573-42e9-b63e-c17a72838406_5_133475095535711373.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_351651ab-3573-42e9-b63e-c17a72838406_3_133475095500316173.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_351651ab-3573-42e9-b63e-c17a72838406_4_133475095521194254.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a6b8b7d3-8995-485c-8b04-325bdf4c1a66_10_133475095543533978.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a6b8b7d3-8995-485c-8b04-325bdf4c1a66_6_133475095500316173.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a6b8b7d3-8995-485c-8b04-325bdf4c1a66_5_133475095483775016.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a6b8b7d3-8995-485c-8b04-325bdf4c1a66_7_133475095507534486.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a6b8b7d3-8995-485c-8b04-325bdf4c1a66_8_133475095520197731.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_a6b8b7d3-8995-485c-8b04-325bdf4c1a66_9_133475095538543520.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_16_133475095482616329.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_17_133475095498979627.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_19_133475095522376955.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_18_133475095511852692.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_20_133475095531374268.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_21_133475095543858604.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_22_133475095551702775.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Got audio file paths (22)
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_351651ab-3573-42e9-b63e-c17a72838406_11_133475095621413695.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_351651ab-3573-42e9-b63e-c17a72838406_10_133475095609381398.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_351651ab-3573-42e9-b63e-c17a72838406_12_133475095625912075.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_351651ab-3573-42e9-b63e-c17a72838406_14_133475095633076598.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_351651ab-3573-42e9-b63e-c17a72838406_13_133475095628923616.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_351651ab-3573-42e9-b63e-c17a72838406_7_133475095575433545.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_351651ab-3573-42e9-b63e-c17a72838406_9_133475095603051896.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_351651ab-3573-42e9-b63e-c17a72838406_6_133475095542544231.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_351651ab-3573-42e9-b63e-c17a72838406_8_133475095582786272.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_7b98a467-1f0c-4012-b767-c105b6f46f6c_2_133475095622741071.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_7b98a467-1f0c-4012-b767-c105b6f46f6c_4_133475095638741380.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_24_133475095569094852.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_26_133475095600354622.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_7b98a467-1f0c-4012-b767-c105b6f46f6c_1_133475095598354250.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_25_133475095578757914.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_23_133475095561554416.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_b15d73ac-192b-4f51-8939-ed3437d557b9_27_133475095603710041.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_7b98a467-1f0c-4012-b767-c105b6f46f6c_3_133475095626413024.wav
+[Info   :RugbugRedfern.SkinwalkerMod] Loaded clip from path E:/SteamLibrary/steamapps/common/Lethal Company/Lethal Company_Data\..\Dissonance_Diagnostics\Output_7b98a467-1f0c-4012-b767-c105b6f46f6c_0_133475095360058662.wav
+[Info   :RugbugRedfern.SkinwalkerMod] SkinwalkerNetworkManager OnDestroy
