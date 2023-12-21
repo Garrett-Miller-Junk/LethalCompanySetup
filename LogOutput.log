@@ -10,11 +10,52 @@
 [Message:   BepInEx] Preloader finished
 [Message:   BepInEx] Chainloader ready
 [Message:   BepInEx] Chainloader started
-[Info   :   BepInEx] 8 plugins to load
-[Info   :   BepInEx] Loading [BiggerLobby 2.6.0]
-[Info   :BiggerLobby] BiggerLobby loaded
+[Info   :   BepInEx] 13 plugins to load
+[Info   :   BepInEx] Loading [ShipLoot 1.0]
+[Info   :   BepInEx] Loading [ItemQuickSwitchMod 1.1.0]
+[Info   :ItemQuickSwitchMod] ItemQuickSwitchMod is creating binds!
+[Info   :ItemQuickSwitchMod] Plugin ItemQuickSwitchMod is loaded!
 [Info   :   BepInEx] Loading [HDLethalCompany-Sligili 1.5.3]
 [Info   :HDLethalCompany-Sligili] HDLethalCompany loaded
+[Info   :   BepInEx] Loading [LC_API 3.0.0]
+[Warning:    LC_API] 
+.____    _________           _____  __________ .___  
+|    |   \_   ___ \         /  _  \ \______   \|   | 
+|    |   /    \  \/        /  /_\  \ |     ___/|   | 
+|    |___\     \____      /    |    \|    |    |   | 
+|_______ \\______  /______\____|__  /|____|    |___| 
+        \/       \//_____/        \/                 
+                                                     
+[Info   :    LC_API] LC_API Starting up..
+[Info   :   BepInEx] Loading [MoreCompany 1.7.2]
+[Info   :MoreCompany] Loading MoreCompany...
+[Info   :MoreCompany] Checking: E:\SteamLibrary\steamapps\common\Lethal Company\BepInEx\plugins/MoreCompanyCosmetics
+[Info   :MoreCompany] Read settings and cosmetics
+[Info   :MoreCompany] Loaded cosmetic: builtin.3dglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.bunnyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.denimhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyglasses from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.gunholster from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.hardhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.jesterhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.kittyears from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.mimemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.fancypants from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.outoforder from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.partyhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.plaguemask from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.propellerhat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.eyeballs from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.rudolph from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.santahat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.slimething from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.tophat from bundle
+[Info   :MoreCompany] Loaded cosmetic: builtin.watch from bundle
+[Info   :MoreCompany] Loading USER COSMETICS...
+[Info   :MoreCompany] Loaded MoreCompany FULLY
+[Info   :   BepInEx] Loading [MoreEmotes-Sligili 1.2.2]
+[Info   :MoreEmotes-Sligili] MoreEmotes loaded
 [Info   :   BepInEx] Loading [Helmet_Cameras 2.1.5]
 [Info   :Helmet_Cameras] Plugin Helmet_Cameras is loaded with version 2.1.5!
 [Info   :Helmet_Cameras] --------Helmet camera patch done.---------
@@ -22,10 +63,15 @@
 [Info   :Flashlight] ------Flashlight done.------
 [Info   :   BepInEx] Loading [WalkieUse 1.3.0]
 [Info   : WalkieUse] ------Walkie done.------
-[Error  :   BepInEx] Could not load [Youtube Boombox 1.4.1] because it has missing dependencies: LC_API
+[Info   :   BepInEx] Loading [Youtube Boombox 1.4.1]
 [Info   :   BepInEx] Loading [Yippee tbh mod 1.2.2]
 [Info   :sunnobunno.YippeeMod] sunnobunno.YippeeMod is loading.
 [Info   :sunnobunno.YippeeMod] sunnobunno.YippeeMod is loaded. Yippee!!!
+[Info   :   BepInEx] Loading [Late Company 1.0.6]
+[Info   :Late Company] Late Company loaded!
 [Info   :   BepInEx] Loading [More Suits 1.4.1]
 [Info   :More Suits] Plugin More Suits is loaded!
 [Message:   BepInEx] Chainloader startup complete
+[Info   :    LC_API] LC_API Started!
+[Message:    LC_API] server pre-setup success
+[Warning:    LC_API] Asking all other players for their mod list..
